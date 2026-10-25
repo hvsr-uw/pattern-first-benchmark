@@ -1,0 +1,4 @@
+arm,first_test,retest,drop
+arm1_different_rule,100,100,0
+arm2_control_broken_link,100,33,67
+note,Arm1-vs-Arm2 comparison invalidated per pre-registered P6 ladder (Arm2 is adversarial not drift); Arm1 absolute retention and Arm2 plasticity stand alone.

@@ -1,0 +1,4 @@
+mode,heldout_steps_correct,heldout_steps_total,heldout_episodes_correct,heldout_episodes_total,overall_steps_correct,overall_steps_total,overall_episodes_correct,overall_episodes_total
+frozen,62,215,0,46,195,681,0,145
+cl_lora,202,215,36,46,642,681,122,145
+icl_capped20,46,215,0,46,177,681,20,145

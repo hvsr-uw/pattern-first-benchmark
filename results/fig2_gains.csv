@@ -1,0 +1,10 @@
+rule,seed,same_template_gain,paraphrase_gain,gap
+authority,0,77,35,42
+authority,1,77,58,19
+authority,2,53,8,45
+compliance,0,80,41,39
+compliance,1,81,51,30
+compliance,2,76,38,38
+violation,0,85,65,20
+violation,1,85,69,16
+violation,2,85,41,44

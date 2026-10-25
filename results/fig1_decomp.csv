@@ -1,0 +1,11 @@
+rule,seed,BASE_out_of_100,FRESH_out_of_100,REPEATED_out_of_200,PATTERNLESS_out_of_100,pattern_gain,format_gain,PRIMARY
+authority,0,23,100,200,0,77,-23,100
+authority,1,23,100,200,0,77,-23,100
+authority,2,23,76,152,0,53,-23,76
+compliance,0,19,99,200,0,80,-19,99
+compliance,1,19,100,200,0,81,-19,100
+compliance,2,19,95,190,0,76,-19,95
+violation,0,15,100,200,0,85,-15,100
+violation,1,15,100,200,0,85,-15,100
+violation,2,15,100,200,0,85,-15,100
+violation_8b,0,65,100,200,0,35,-65,100

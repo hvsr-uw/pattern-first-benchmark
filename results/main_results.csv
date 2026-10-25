@@ -1,0 +1,11 @@
+rule,seed,frozen,FRESH,PATTERNLESS,PRIMARY,paraphrase_gain,icl_w20,paraphrase_frozen
+authority,0,23,100,0,100,35,31,12
+authority,1,23,100,0,100,58,31,12
+authority,2,23,76,0,76,8,10,12
+compliance,0,19,99,0,99,41,10,22
+compliance,1,19,100,0,100,51,5,22
+compliance,2,19,95,0,95,38,5,22
+violation,0,15,100,0,100,65,35,31
+violation,1,15,100,0,100,69,35,31
+violation,2,15,100,0,100,41,36,31
+violation_8b,0,65,100,0,100,,,
